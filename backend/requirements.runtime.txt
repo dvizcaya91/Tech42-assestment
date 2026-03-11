@@ -1,0 +1,7 @@
+fastapi>=0.115,<1.0
+langfuse>=3.14,<4.0
+langgraph>=0.2,<1.0
+mangum>=0.19,<1.0
+pypdf>=6.0,<7.0
+PyJWT[crypto]>=2.9,<3.0
+yfinance>=0.2.54,<1.0
